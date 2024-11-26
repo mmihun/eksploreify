@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179345733380",
+    "project_id": "eksprolerify",
+    "storage_bucket": "eksprolerify.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179345733380:android:8dfdb4bc4a4fc9f39c4251",
+        "android_client_info": {
+          "package_name": "com.example.eksprolify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu4nPH2D9ZZBLmUqYeZXcmFFFtuRnqDsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
